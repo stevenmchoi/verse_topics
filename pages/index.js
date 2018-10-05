@@ -1,5 +1,6 @@
 import Layout from '../components/MyLayout';
 import Link from 'next/link';
+import fetch from 'isomorphic-unfetch';
 
 const PostLink = (props) => (
 	<li>
