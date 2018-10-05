@@ -9971,7 +9971,7 @@ var _jsxFileName = "/Users/stevenchoi/Documents/personal_projects/_practice/vers
 
 
 
-var Page = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(function (props) {
+var PostPage = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(function (props) {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_MyLayout__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
@@ -9992,7 +9992,7 @@ var Page = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(functi
     __self: this
   }, "This is the blog post content."));
 });
-/* harmony default export */ __webpack_exports__["default"] = (Page);
+/* harmony default export */ __webpack_exports__["default"] = (PostPage);
     (function (Component, route) {
       if(!Component) return
       if (false) {}

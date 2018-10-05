@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/stevenmchoi/verse_topics#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "next": "^7.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
