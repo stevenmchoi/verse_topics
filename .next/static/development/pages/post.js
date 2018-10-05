@@ -10015,7 +10015,7 @@ var PostPage = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(fu
 
 /***/ }),
 
-/***/ 5:
+/***/ 4:
 /*!*****************************!*\
   !*** multi ./pages/post.js ***!
   \*****************************/
@@ -10040,5 +10040,5 @@ module.exports = dll_5d62d38be3592dca3a42;
 
 /***/ })
 
-},[[5,"static/runtime/webpack.js"]]]));;
+},[[4,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=post.js.map
