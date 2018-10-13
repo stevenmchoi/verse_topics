@@ -1,30 +1,30 @@
 {
-  "name": "verse_topics",
-  "version": "1.0.0",
-  "description": "UI of verse topics made with NextJS",
-  "main": "index.js",
-  "scripts": {
-    "dev": "node server.js",
-    "build": "next build",
-    "start": "NODE_ENV=production node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stevenmchoi/verse_topics.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stevenmchoi/verse_topics/issues"
-  },
-  "homepage": "https://github.com/stevenmchoi/verse_topics#readme",
-  "dependencies": {
-    "express": "^4.16.3",
-    "isomorphic-unfetch": "^3.0.0",
-    "next": "^7.0.1",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-markdown": "^4.0.3"
-  }
+	"name": "verse_topics",
+	"version": "1.0.0",
+	"description": "UI of verse topics made with NextJS",
+	"main": "index.js",
+	"scripts": {
+		"dev": "node server.js",
+		"build": "next build",
+		"start": "NODE_ENV=production node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stevenmchoi/verse_topics.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/stevenmchoi/verse_topics/issues"
+	},
+	"homepage": "https://github.com/stevenmchoi/verse_topics#readme",
+	"dependencies": {
+		"express": "^4.16.4",
+		"isomorphic-unfetch": "^3.0.0",
+		"next": "^7.0.1",
+		"react": "^16.5.2",
+		"react-dom": "^16.5.2",
+		"react-markdown": "^4.0.3"
+	}
 }

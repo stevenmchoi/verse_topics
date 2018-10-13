@@ -1,0 +1,75 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/MyLayout.js 10f33cbdfdf8f7577f396e8d2ff0886e": 2,
+      "external \"styled-jsx/style\"": 3,
+      "external \"next/router\"": 4,
+      "external \"react-markdown\"": 5,
+      "multi ./pages/_error.js": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_error.js": 7,
+      "multi ./pages/about.js": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 9,
+      "multi ./pages/index.js": 10,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 11,
+      "external \"isomorphic-unfetch\"": 12,
+      "multi ./pages/post.js": 13,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/post.js": 14,
+      "multi node_modules/next/dist/pages/_app.js": 15,
+      "node_modules/next/dist/pages/_app.js": 16,
+      "external \"next/app\"": 17,
+      "multi node_modules/next/dist/pages/_document.js": 18,
+      "node_modules/next/dist/pages/_document.js": 19,
+      "external \"next/document\"": 20
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/PvJwsu7cPqnAuJ_4A65h0/pages/_error.js": 0,
+      "static/PvJwsu7cPqnAuJ_4A65h0/pages/about.js": 1,
+      "static/PvJwsu7cPqnAuJ_4A65h0/pages/index.js": 2,
+      "static/PvJwsu7cPqnAuJ_4A65h0/pages/post.js": 3,
+      "static/PvJwsu7cPqnAuJ_4A65h0/pages/_app.js": 4,
+      "static/PvJwsu7cPqnAuJ_4A65h0/pages/_document.js": 5,
+      "static/FGK5rYhx83Aqzh1OWe5Za/pages/_error.js": 6,
+      "static/FGK5rYhx83Aqzh1OWe5Za/pages/about.js": 7,
+      "static/FGK5rYhx83Aqzh1OWe5Za/pages/index.js": 8,
+      "static/FGK5rYhx83Aqzh1OWe5Za/pages/post.js": 9,
+      "static/FGK5rYhx83Aqzh1OWe5Za/pages/_app.js": 10,
+      "static/FGK5rYhx83Aqzh1OWe5Za/pages/_document.js": 11
+    },
+    "bySource": {},
+    "usedIds": [
+      10,
+      11,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
