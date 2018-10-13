@@ -1,0 +1,6 @@
+https://bibles.org/pages/api
+https://scripture.api.bible/
+https://bible-api.com/
+http://www.esvapi.org/api
+http://getbible.net/api
+http://webtools.bible/api.html
