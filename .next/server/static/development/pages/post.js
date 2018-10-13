@@ -229,6 +229,8 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 // 	</Layout>
 // ));
 // export default PostPage;
+// NextJS Tutorial: Fetching data
+// https://nextjs.org/learn/basics/fetching-data-for-pages
 
 var Post = function Post(props) {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_MyLayout__WEBPACK_IMPORTED_MODULE_2__["default"], null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", null, props.show.name), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, props.show.summary.replace(/<[/]?p>/g, '')), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {

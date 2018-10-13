@@ -11,6 +11,8 @@ import fetch from 'isomorphic-unfetch';
 
 // export default PostPage;
 
+// NextJS Tutorial: Fetching data
+// https://nextjs.org/learn/basics/fetching-data-for-pages
 const Post = (props) => (
 	<Layout>
 		<h1>{props.show.name}</h1>
