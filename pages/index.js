@@ -62,7 +62,7 @@ function getPosts() {
 const PostLink = ({post}) => (
 	<li>
 		<Link as={`/p/${post.id}`} href={`/post?title=${post.title}`}>
-			<a>{post.title}</a>
+			<a className="post-link">{post.title}</a>
 		</Link>
 	</li>
 );
@@ -76,26 +76,27 @@ export default () => (
 			))}
 		</ul>
 		<style jsx>{`
-			h1,
-			a {
+			h1 {
 				font-family: 'Arial';
 			}
 
-			ul {
-				padding: 0;
-			}
-
-			li {
+			ul,
+			ul li,
+			ul li a,
+			ul li a.post-link {
 				list-style: none;
+				padding: 0;
 				margin: 5px 0;
-			}
-
-			a {
 				text-decoration: none;
 				color: blue;
 			}
 
-			a:hover {
+			ul li a:visited {
+				text-decoration: none;
+				color: blue;
+			}
+
+			ul li a:hover {
 				opacity: 0.6;
 			}
 		`}</style>
